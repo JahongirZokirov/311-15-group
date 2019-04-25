@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXDatePicker?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="590.0" prefWidth="482.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.Add">
+   <Label text="Qo'shiladigan dori haqida ma'lumotlar" textFill="#264e94">
+      <font>
+         <Font name="Arial Bold" size="22.0" />
+      </font>
+      <VBox.margin>
+         <Insets left="40.0" top="10.0" />
+      </VBox.margin>
+   </Label>
+   <AnchorPane prefHeight="554.0" prefWidth="482.0" stylesheets="@../resources/StyleSheets/button.css">
+      <ImageView fx:id="productImage" fitHeight="159.0" fitWidth="215.0" layoutX="19.0" layoutY="34.0" pickOnBounds="true" preserveRatio="true">
+         <Image url="@../resources/pictures/medicines1.jpg" />
+      </ImageView>
+      <GridPane layoutX="26.0" layoutY="244.0" prefHeight="228.0" prefWidth="431.0">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="180.0" minWidth="10.0" prefWidth="158.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="306.0" minWidth="10.0" prefWidth="273.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints maxHeight="36.0" minHeight="10.0" prefHeight="25.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="38.0" minHeight="8.0" prefHeight="38.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="45.0" minHeight="10.0" prefHeight="31.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <JFXTextField fx:id="nameField" unFocusColor="#230bbd" GridPane.columnIndex="1">
+            <font>
+               <Font name="Arial" size="16.0" />
+            </font>
+         </JFXTextField>
+         <JFXTextField fx:id="priceField" prefHeight="32.0" prefWidth="288.0" unFocusColor="#230bbd" GridPane.columnIndex="1" GridPane.rowIndex="1">
+            <GridPane.margin>
+               <Insets />
+            </GridPane.margin>
+            <font>
+               <Font name="Arial" size="16.0" />
+            </font>
+         </JFXTextField>
+         <JFXTextField fx:id="illnessField" unFocusColor="#230bbd" GridPane.columnIndex="1" GridPane.rowIndex="2">
+            <font>
+               <Font name="Arial" size="16.0" />
+            </font>
+         </JFXTextField>
+         <JFXTextField fx:id="manufacturerField" prefHeight="30.0" prefWidth="179.0" unFocusColor="#230bbd" GridPane.columnIndex="1" GridPane.rowIndex="3">
+            <font>
+               <Font name="Arial" size="16.0" />
+            </font>
+            <GridPane.margin>
+               <Insets />
+            </GridPane.margin>
+         </JFXTextField>
+         <Label text="Nomi: ">
+            <font>
+               <Font name="Calibri Bold" size="18.0" />
+            </font>
+         </Label>
+         <Label text="Narxi (so'm): " GridPane.rowIndex="1">
+            <font>
+               <Font name="Calibri Bold" size="18.0" />
+            </font>
+         </Label>
+         <Label text="Qo'llanilishi: " GridPane.rowIndex="2">
+            <font>
+               <Font name="Calibri Bold" size="18.0" />
+            </font>
+         </Label>
+         <Label text="Ishlab chiqaruvchi: " GridPane.rowIndex="3">
+            <font>
+               <Font name="Calibri Bold" size="18.0" />
+            </font>
+         </Label>
+         <JFXComboBox fx:id="categoryBox" focusColor="BLACK" labelFloat="true" prefHeight="32.0" prefWidth="277.0" unFocusColor="#230bbd" visibleRowCount="5" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+         <Label text="Kategoriyasi: " GridPane.rowIndex="4">
+            <font>
+               <Font name="Calibri Bold" size="18.0" />
+            </font>
+         </Label>
+         <Label text="Dori miqdori:" GridPane.rowIndex="5">
+            <font>
+               <Font name="Calibri Bold" size="18.0" />
+            </font>
+         </Label>
+         <JFXTextField fx:id="quantityField" prefHeight="30.0" prefWidth="179.0" unFocusColor="#230bbd" GridPane.columnIndex="1" GridPane.rowIndex="5">
+            <font>
+               <Font name="Arial" size="16.0" />
+            </font>
+         </JFXTextField>
+      </GridPane>
+      <JFXButton buttonType="RAISED" layoutX="324.0" layoutY="481.0" onAction="#add" prefHeight="46.0" prefWidth="131.0" ripplerFill="#051b05" style="-fx-background-color: #073192;" text="Qo'shish" textFill="#f6f6f8">
+         <font>
+            <Font name="Georgia" size="18.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="32.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+               <Image url="@../resources/pictures/Add.png" />
+            </ImageView>
+         </graphic>
+      </JFXButton>
+      <GridPane layoutX="266.0" layoutY="17.0" prefHeight="172.0" prefWidth="198.0">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <JFXDatePicker fx:id="manufactureDate" defaultColor="#04d331" prefHeight="28.0" prefWidth="203.0" promptText="Ishlab chiqarilgan sana" GridPane.rowIndex="1" />
+         <JFXDatePicker fx:id="expireDate" defaultColor="#e41515" onAction="#checkDate" prefHeight="28.0" prefWidth="203.0" promptText="Yaroqlilik muddati" GridPane.rowIndex="3" />
+         <Label text="Ishlab chiqarilgan sana:">
+            <font>
+               <Font name="Calibri Bold" size="18.0" />
+            </font>
+         </Label>
+         <Label prefHeight="29.0" prefWidth="156.0" text="Yaroqlilik muddati:" GridPane.rowIndex="2">
+            <font>
+               <Font name="Calibri Bold" size="18.0" />
+            </font>
+         </Label>
+      </GridPane>
+      <StackPane fx:id="stackPane" layoutX="23.0" layoutY="80.0" prefHeight="62.0" prefWidth="76.0" />
+      <JFXButton layoutX="61.0" layoutY="200.0" onAction="#browsePicture" prefHeight="32.0" prefWidth="138.0" ripplerFill="#88a1da" style="-fx-background-color: #06256e;" text="Rasm yuklash" textFill="#f6f6f8">
+         <font>
+            <Font name="Georgia" size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="21.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+               <Image url="@../resources/pictures/Picture.png" />
+            </ImageView>
+         </graphic>
+      </JFXButton>
+      <Button layoutX="32.0" layoutY="478.0" mnemonicParsing="false" onAction="#backToMain" prefHeight="53.0" prefWidth="59.0">
+         <graphic>
+            <ImageView fitHeight="43.0" fitWidth="45.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../resources/pictures/Go Back.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </AnchorPane>
+</VBox>

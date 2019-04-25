@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXDatePicker?>
+<?import com.jfoenix.controls.JFXListView?>
+<?import com.jfoenix.controls.JFXSlider?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import com.jfoenix.controls.JFXTreeTableView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.SpinnerValueFactory.IntegerSpinnerValueFactory?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="680.0" prefWidth="1300.0" style="-fx-background-color: #FFFFFF;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.Shop">
+   <right>
+      <JFXListView fx:id="shopList" prefHeight="476.0" prefWidth="307.0" style="-fx-border-color: #1462FF;" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets right="20.0" />
+         </BorderPane.margin></JFXListView>
+   </right>
+   <center>
+       <AnchorPane prefHeight="476.0" prefWidth="436.0" BorderPane.alignment="CENTER">
+           <ImageView fx:id="productImage" fitHeight="159.0" fitWidth="215.0" layoutX="19.0" layoutY="34.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+               <Image url="@../resources/pictures/Medicines.jpg" />
+            </image>
+           </ImageView>
+           <GridPane layoutX="24.0" layoutY="212.0" prefHeight="155.0" prefWidth="431.0">
+               <columnConstraints>
+                   <ColumnConstraints hgrow="SOMETIMES" maxWidth="180.0" minWidth="10.0" prefWidth="158.0" />
+                   <ColumnConstraints hgrow="SOMETIMES" maxWidth="306.0" minWidth="10.0" prefWidth="273.0" />
+               </columnConstraints>
+               <rowConstraints>
+                   <RowConstraints maxHeight="36.0" minHeight="10.0" prefHeight="25.0" vgrow="SOMETIMES" />
+                   <RowConstraints maxHeight="38.0" minHeight="8.0" prefHeight="38.0" vgrow="SOMETIMES" />
+                   <RowConstraints maxHeight="45.0" minHeight="10.0" prefHeight="31.0" vgrow="SOMETIMES" />
+                   <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <JFXTextField fx:id="nameField" editable="false" unFocusColor="#230bbd" GridPane.columnIndex="1">
+                   <font>
+                       <Font name="Arial" size="16.0" />
+                   </font>
+               </JFXTextField>
+               <JFXTextField fx:id="priceField" editable="false" prefHeight="32.0" prefWidth="288.0" unFocusColor="#230bbd" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                   <GridPane.margin>
+                       <Insets />
+                   </GridPane.margin>
+               <font>
+                  <Font name="Arial" size="16.0" />
+               </font>
+               </JFXTextField>
+               <JFXTextField fx:id="illnessField" editable="false" unFocusColor="#230bbd" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                   <font>
+                       <Font name="Arial" size="16.0" />
+                   </font>
+               </JFXTextField>
+               <JFXTextField fx:id="manufacturerField" editable="false" prefHeight="30.0" prefWidth="179.0" unFocusColor="#230bbd" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                   <font>
+                       <Font name="Arial" size="16.0" />
+                   </font>
+                   <GridPane.margin>
+                       <Insets />
+                   </GridPane.margin>
+               </JFXTextField>
+               <Label text="Nomi: ">
+                   <font>
+                       <Font name="Calibri Bold" size="18.0" />
+                   </font>
+               </Label>
+               <Label text="Narxi: " GridPane.rowIndex="1">
+                   <font>
+                       <Font name="Calibri Bold" size="18.0" />
+                   </font>
+               </Label>
+               <Label text="Qo'llanilishi: " GridPane.rowIndex="2">
+                   <font>
+                       <Font name="Calibri Bold" size="18.0" />
+                   </font>
+               </Label>
+               <Label fx:id="extraLabel" text="Ishlab chiqaruvchi: " GridPane.rowIndex="3">
+                   <font>
+                       <Font name="Calibri Bold" size="18.0" />
+                   </font>
+               </Label>
+           </GridPane>
+         <JFXButton fx:id="buyButton" buttonType="RAISED" layoutX="276.0" layoutY="421.0" onAction="#addToShopCart" prefHeight="41.0" prefWidth="180.0" ripplerFill="#051b05" style="-fx-background-color: #00C420;" text="Haridlarga qo'shish" textFill="#f6f6f8">
+            <font>
+               <Font name="Georgia" size="16.0" />
+            </font>
+         </JFXButton>
+         <Label layoutX="61.0" layoutY="395.0" text="Harid soni: ">
+            <font>
+               <Font name="Arial Bold" size="18.0" />
+            </font>
+         </Label>
+         <Label fx:id="amountLabel" layoutX="174.0" layoutY="395.0" text="0">
+            <font>
+               <Font name="Arial Bold" size="18.0" />
+            </font>
+         </Label>
+         <GridPane layoutX="266.0" layoutY="17.0" prefHeight="172.0" prefWidth="198.0">
+           <columnConstraints>
+             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+           </columnConstraints>
+           <rowConstraints>
+             <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+             <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+             <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+           </rowConstraints>
+            <children>
+               <JFXDatePicker fx:id="manufactureDate" defaultColor="#04d331" editable="false" prefHeight="28.0" prefWidth="203.0" promptText="Ishlab chiqarilgan sana" GridPane.rowIndex="1" />
+               <JFXDatePicker fx:id="expireDate" defaultColor="#e41515" editable="false" prefHeight="28.0" prefWidth="203.0" promptText="Yaroqlilik muddati" GridPane.rowIndex="3" />
+               <Label text="Ishlab chiqarilgan sana:">
+                  <font>
+                     <Font name="Calibri Bold" size="18.0" />
+                  </font>
+               </Label>
+               <Label prefHeight="29.0" prefWidth="156.0" text="Yaroqlilik muddati:" GridPane.rowIndex="2">
+                  <font>
+                     <Font name="Calibri Bold" size="18.0" />
+                  </font>
+               </Label>
+            </children>
+         </GridPane>
+         <StackPane fx:id="stackPane" layoutX="201.0" layoutY="103.0" prefHeight="62.0" prefWidth="76.0" />
+         <Spinner fx:id="spinner" editable="true" layoutX="58.0" layoutY="423.0" prefHeight="25.0" prefWidth="155.0">
+             <valueFactory>
+                 <SpinnerValueFactory.IntegerSpinnerValueFactory amountToStepBy="1" max="10" min="0" />
+             </valueFactory>
+         </Spinner>
+         <JFXSlider fx:id="amountIndicator" indicatorPosition="RIGHT" layoutX="57.0" layoutY="455.0" majorTickUnit="10.0" max="10.0" minorTickCount="1" onKeyPressed="#setPurchaseAmount" onMouseReleased="#setPurchaseAmount" prefHeight="14.0" prefWidth="155.0" />
+       </AnchorPane>
+   </center>
+   <bottom>
+       <AnchorPane prefHeight="100.0" prefWidth="1300.0" stylesheets="@../resources/StyleSheets/button.css" BorderPane.alignment="CENTER">
+           <Label layoutX="558.0" layoutY="38.0" text="Harid miqdori: ">
+              <font>
+                  <Font name="Cooper Black" size="25.0" />
+              </font>
+           </Label>
+           <Label fx:id="totalPriceLabel" layoutX="789.0" layoutY="38.0" text="0 so'm">
+              <font>
+                  <Font name="Cooper Black" size="25.0" />
+              </font>
+           </Label>
+           <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="1204.0" layoutY="65.0" pickOnBounds="true" preserveRatio="true" />
+           <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="1059.0" layoutY="65.0" pickOnBounds="true" preserveRatio="true" />
+         <JFXComboBox fx:id="sortBox" focusColor="BLACK" labelFloat="true" layoutX="269.0" layoutY="22.0" onAction="#sortBy" prefHeight="32.0" prefWidth="220.0" promptText="Saralash" unFocusColor="#230bbd" visibleRowCount="5" />
+         <HBox layoutX="973.0" layoutY="17.0" prefHeight="67.0" prefWidth="313.0">
+            <children>
+               <Button mnemonicParsing="false" onAction="#cancel" prefHeight="67.0" prefWidth="76.0">
+                  <graphic>
+                     <ImageView fitHeight="70.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true">
+                        <image>
+                           <Image url="@../resources/pictures/Cancel.png" />
+                        </image>
+                     </ImageView>
+                  </graphic>
+               </Button>
+               <Button mnemonicParsing="false" onAction="#clearCart" prefHeight="77.0" prefWidth="87.0">
+                  <graphic>
+                     <ImageView fitHeight="63.0" fitWidth="59.0" pickOnBounds="true" preserveRatio="true">
+                        <image>
+                           <Image url="@../resources/pictures/remove.png" />
+                        </image>
+                     </ImageView>
+                  </graphic>
+                  <HBox.margin>
+                     <Insets left="23.0" />
+                  </HBox.margin>
+               </Button>
+               <Button mnemonicParsing="false" onAction="#buy" prefHeight="67.0" prefWidth="76.0">
+                  <graphic>
+                     <ImageView fitHeight="70.0" fitWidth="90.0" pickOnBounds="true" preserveRatio="true">
+                        <image>
+                           <Image url="@../resources/pictures/Ok.png" />
+                        </image>
+                     </ImageView>
+                  </graphic>
+                  <HBox.margin>
+                     <Insets left="23.0" />
+                  </HBox.margin>
+               </Button>
+            </children>
+         </HBox>
+         <Button layoutX="27.0" layoutY="13.0" mnemonicParsing="false" onAction="#backToMenu" prefHeight="67.0" prefWidth="76.0">
+            <graphic>
+               <ImageView fitHeight="70.0" fitWidth="90.0" onMouseClicked="#cancel" pickOnBounds="true" preserveRatio="true">
+                  <image>
+                     <Image url="@../resources/pictures/Go Back.png" />
+                  </image>
+               </ImageView>
+            </graphic>
+         </Button>
+       </AnchorPane>
+   </bottom>
+   <left>
+      <JFXTreeTableView fx:id="tableView" onKeyPressed="#selectDrug" onMouseClicked="#selectDrug" prefHeight="476.0" prefWidth="490.0" stylesheets="@../resources/StyleSheets/greenStyle.css" BorderPane.alignment="CENTER" />
+   </left>
+   <top>
+      <VBox prefHeight="100.0" prefWidth="1300.0" BorderPane.alignment="CENTER">
+         <children>
+            <MenuBar>
+              <menus>
+                <Menu mnemonicParsing="false" text="O'zgartirish kiritish">
+                  <items>
+                        <MenuItem mnemonicParsing="false" onAction="#addNewDrug" text="Yangi dori qo'shish" />
+                    <MenuItem mnemonicParsing="false" onAction="#updateDrug" text="Tanlangan dori ma'lumotlarini yangilash" />
+                        <MenuItem mnemonicParsing="false" onAction="#deleteDrug" text="Tanlangan dorini o'chirish" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Yordam">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="About" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+            <HBox prefHeight="75.0" prefWidth="1300.0">
+               <children>
+                  <ImageView fitHeight="60.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets left="15.0" top="5.0" />
+                     </HBox.margin>
+                     <image>
+                        <Image url="@../resources/pictures/emblem.jpg" />
+                     </image>
+                  </ImageView>
+                  <Label text="Dorilar ro'yhati" textFill="#264e94">
+                     <font>
+                        <Font name="Arial Bold" size="24.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="60.0" top="25.0" />
+                     </HBox.margin>
+                  </Label>
+                  <JFXButton fx:id="drugConditionBtn" buttonType="RAISED" onAction="#showConditionMessage" prefHeight="37.0" prefWidth="136.0" ripplerFill="#0d0565" text="Dori holati" textAlignment="CENTER" textFill="#171616">
+                     <font>
+                        <Font name="Georgia" size="16.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="25.0" fitWidth="26.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../resources/pictures/Attention.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <HBox.margin>
+                        <Insets left="50.0" top="20.0" />
+                     </HBox.margin>
+                  </JFXButton>
+                  <JFXTextField fx:id="searchField" focusColor="BLACK" labelFloat="true" prefHeight="25.0" prefWidth="327.0" promptText="Dori nomi yoki qo'llanish kasalligi orqali qidirish" unFocusColor="#230bbd">
+                     <HBox.margin>
+                        <Insets left="20.0" top="25.0" />
+                     </HBox.margin>
+                  </JFXTextField>
+                  <JFXButton buttonType="RAISED" onAction="#searchItems" prefHeight="37.0" prefWidth="112.0" ripplerFill="#0d0565" style="-fx-background-color: #00cc00;" text="Qidirish" textAlignment="CENTER" textFill="#161617">
+                     <HBox.margin>
+                        <Insets left="20.0" top="20.0" />
+                     </HBox.margin>
+                     <font>
+                        <Font name="Georgia" size="16.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fitHeight="25.0" fitWidth="26.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../resources/pictures/Search.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <ImageView fitHeight="40.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets left="50.0" top="15.0" />
+                     </HBox.margin>
+                     <image>
+                        <Image url="@../resources/pictures/list.png" />
+                     </image>
+                  </ImageView>
+                  <Label text="Haridlar ro'yhati" textFill="#264e94">
+                     <font>
+                        <Font name="Arial Black" size="20.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="10.0" top="20.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </top>
+</BorderPane>

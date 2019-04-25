@@ -1,0 +1,10 @@
+.tree-table-view {
+    -fx-tree-table-color: #33ff35;
+    -fx-background-color: transparent;
+    -fx-border-color: #33ff35;
+    -fx-border-width: 2;
+}
+
+.jfx-button {
+    -fx-background-color: #33ff35;
+}

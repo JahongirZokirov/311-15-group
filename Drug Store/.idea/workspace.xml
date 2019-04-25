@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Drug Store" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Drug_Store.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jfoenix_9_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drug Store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drugstore.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Gemotogen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Sefozalin.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Solgar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/aevit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/askorbinka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chernika.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fastum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gorchishnik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/komplivit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lyuksfen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mezim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mukaltin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ot kashlya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sitramon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/suprastin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ugol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/valerianka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vizin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yod.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/Apteka.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/Apteka.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/Apteka.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/META-INF/maven/org.xerial/sqlite-jdbc/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/META-INF/maven/org.xerial/sqlite-jdbc/LICENSE.zentus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/META-INF/maven/org.xerial/sqlite-jdbc/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/META-INF/maven/org.xerial/sqlite-jdbc/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/META-INF/maven/org.xerial/sqlite-jdbc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/META-INF/services/java.sql.Driver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/adapters/ReflectionHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/JFXNodesAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/CenterTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/HorizontalTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/JFXAlertAnimation$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/JFXAlertAnimation$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/JFXAlertAnimation$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/JFXAlertAnimation$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/JFXAlertAnimation$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/JFXAlertAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/animation/alert/VerticalTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/concurrency/JFXUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/FakeFocusJFXTextField$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/FakeFocusJFXTextField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/IFXTextInputControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXAlert$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXAlert$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXAlert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXAutoCompletePopup$CSSBridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXAutoCompletePopup$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXAutoCompletePopup$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXAutoCompletePopup$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXAutoCompletePopup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXBadge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXButton$ButtonType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXButton$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXButton$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXButton$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXCheckBox$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXCheckBox$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXCheckBox$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXCheckBox$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXCheckBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXChip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXChipView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXChipView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXClippedPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXColorPicker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXComboBox$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXComboBox$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXComboBox$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXComboBox$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXComboBox$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXComboBox$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXComboBox$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXComboBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDatePicker$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDatePicker$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDatePicker$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDatePicker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDefaultChip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$BottomTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$CenterTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$DialogTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$LeftTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$RightTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog$TopTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDialogLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDrawer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDrawer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDrawer$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDrawer$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDrawer$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDrawer$DrawerDirection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDrawer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXDrawersStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXHamburger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXListCell$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXListCell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXListView$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXListView$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXListView$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXListView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXMasonryPane$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXMasonryPane$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXMasonryPane$BinPackingLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXMasonryPane$LayoutMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXMasonryPane$MasonryLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXMasonryPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXNodesList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXNodesList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPasswordField$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPasswordField$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPasswordField$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPasswordField$StyleableProperties$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPasswordField$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPasswordField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPopup$PopupHPosition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPopup$PopupVPosition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXPopup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXProgressBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRadioButton$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRadioButton$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRadioButton$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRadioButton$StyleableProperties$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRadioButton$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRadioButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$RippleGenerator$OverLayRipple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$RippleGenerator$Ripple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$RippleGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$RipplerMask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$RipplerPos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$StyleableProperties$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$StyleableProperties$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXRippler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXScrollPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSlider$IndicatorPosition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSlider$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSlider$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSlider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSnackbar$SnackbarEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSnackbar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSpinner$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSpinner$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSpinner$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXSpinner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTabPane$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTabPane$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTabPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextArea$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextArea$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextArea$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextArea$StyleableProperties$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextArea$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextField$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextField$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextField$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextField$StyleableProperties$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextField$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTextField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTimePicker$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTimePicker$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTimePicker$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTimePicker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton$StyleableProperties$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton$StyleableProperties$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton$StyleableProperties$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton$StyleableProperties$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleNode$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleNode$StyleableProperties$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleNode$StyleableProperties$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleNode$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToggleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTogglePane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXToolbar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeCell$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeCell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeTableColumn$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeTableColumn$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeTableColumn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeTableRow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeTableView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeViewPath$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeViewPath$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeViewPath$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeViewPath$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeViewPath$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/JFXTreeViewPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/RecursiveTreeItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/behavior/JFXGenericPickerBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/cells/editors/DoubleTextFieldEditorBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/cells/editors/IntegerTextFieldEditorBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/cells/editors/TextFieldEditorBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/cells/editors/base/EditorNodeBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/cells/editors/base/GenericEditableTreeTableCell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/cells/editors/base/JFXTreeTableCell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/datamodels/treetable/RecursiveTreeObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/events/JFXAutoCompleteEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/events/JFXDialogEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/controls/events/JFXDrawerEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/ButtonTypeConverter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/ButtonTypeConverter$Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/ButtonTypeConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/DialogTransitionConverter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/DialogTransitionConverter$Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/DialogTransitionConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/IndicatorPositionConverter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/IndicatorPositionConverter$Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/IndicatorPositionConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/RipplerMaskTypeConverter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/RipplerMaskTypeConverter$Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/RipplerMaskTypeConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/converters/base/NodeConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/effects/JFXDepthManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/effects/JFXDepthManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/responsive/JFXResponsiveHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/responsive/JFXResponsiveHandler$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/responsive/JFXResponsiveHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXAutoCompletePopupSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXAutoCompletePopupSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXButtonSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXButtonSkin$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXButtonSkin$ButtonClickTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXButtonSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCheckBoxOldSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCheckBoxOldSkin$CheckBoxTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCheckBoxOldSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCheckBoxSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCheckBoxSkin$CheckBoxTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCheckBoxSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXChipViewSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXChipViewSkin$ChipsAutoComplete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXChipViewSkin$CustomFlowPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXChipViewSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPalette$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPalette$ColorSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPalette$JFXColorGrid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPalette.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPickerSkin$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPickerSkin$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPickerSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPickerUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPickerUI$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPickerUI$CurveTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXColorPickerUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXComboBoxListViewSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXComboBoxListViewSkin$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXComboBoxListViewSkin$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXComboBoxListViewSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCustomColorPicker$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCustomColorPicker$PathClickTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCustomColorPicker$RecentColorPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCustomColorPicker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCustomColorPickerDialog$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCustomColorPickerDialog$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXCustomColorPickerDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXDatePickerContent$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXDatePickerContent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXDatePickerContent$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXDatePickerContent$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXDatePickerContent$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXDatePickerContent$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXDatePickerContent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXDatePickerSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXGenericPickerSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXListViewSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXNestedTableColumnHeader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXPopupSkin$PopupTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXPopupSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXProgressBarSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXRadioButtonSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXRadioButtonSkin$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXRadioButtonSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXSliderSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXSpinnerSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$ArrowPosition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$HeaderContainer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$HeaderContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$HeaderControl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$HeaderControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$TabContentHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin$TabHeaderContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTabPaneSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTableColumnHeader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTableHeaderRow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTableHeaderRow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTextAreaSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTextFieldSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTimePickerContent$TimeUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTimePickerContent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTimePickerSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXToggleButtonSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXToggleNodeSkin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXToggleNodeSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTreeTableCellSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/skins/JFXTreeTableViewSkin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/svg/SVGGlyph$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/svg/SVGGlyph$StyleableProperties$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/svg/SVGGlyph$StyleableProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/svg/SVGGlyph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/svg/SVGGlyphLoader$SVGGlyphBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/svg/SVGGlyphLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/CacheMomento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/CachedTransition$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/CachedTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXAnimationTimer$AnimationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXAnimationTimer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXDrawerKeyValue$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXDrawerKeyValue$JFXDrawerKeyValueBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXDrawerKeyValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXFillTransition$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXFillTransition$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXFillTransition$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXFillTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXKeyFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXKeyValue$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXKeyValue$JFXKeyValueBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/JFXKeyValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/hamburger/HamburgerBackArrowBasicTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/hamburger/HamburgerBasicCloseTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/hamburger/HamburgerNextArrowBasicTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/hamburger/HamburgerSlideCloseTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/transitions/hamburger/HamburgerTransition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/utils/JFXHighlighter$HighLightRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/utils/JFXHighlighter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/utils/JFXNodeUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/utils/JFXNodeUtils$Wrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/utils/JFXNodeUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/validation/DoubleValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/validation/NumberValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/validation/RequiredFieldValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/validation/ValidationFacade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/validation/base/ValidatorBase$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/validation/base/ValidatorBase$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/validation/base/ValidatorBase$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/com/jfoenix/validation/base/ValidatorBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-alert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-check-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-chip-view.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-color-picker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-combo-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-date-picker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-dialog-layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-password-field.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-progress-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-radio-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-tab-pane.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-text-area.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-text-field.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-time-picker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-toggle-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-toggle-node.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-tree-table-view.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/controls/jfx-tree-view-path.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/jfoenix-design.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/css/jfoenix-fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/drugstore.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/RobotoCondensed-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/RobotoCondensed-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/RobotoCondensed-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/RobotoCondensed-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/RobotoCondensed-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/font/roboto/RobotoCondensed-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/BusyHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/ExtendedCommand$BackupCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/ExtendedCommand$RestoreCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/ExtendedCommand$SQLExtension.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/ExtendedCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/Function$Aggregate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/JDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/ProgressHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$DateClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$DatePrecision.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$Encoding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$JournalMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$LockingMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$Pragma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$PragmaValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$SynchronousMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$TempStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig$TransactionMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteErrorCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteJDBCLoader$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteJDBCLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/SQLiteOpenMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/Codes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/CoreConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/CoreDatabaseMetaData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/CorePreparedStatement$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/CorePreparedStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/CoreResultSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/CoreStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/DB$ProgressObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/DB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/core/NativeDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/DateFormatUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/DateParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/DatePrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/ExceptionUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateFormat$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$CaseInsensitiveTextStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$CopyQuotedStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$ISO8601TimeZoneStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$NumberStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$Strategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser$TimeZoneStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDateParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$CharacterLiteral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$Iso8601_Rule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$NumberRule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$PaddedNumberField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$Rule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$StringLiteral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TextField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TimeZoneDisplayKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TimeZoneNameRule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TimeZoneNumberRule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TwelveHourField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TwentyFourHourField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TwoDigitMonthField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TwoDigitNumberField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$TwoDigitYearField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$UnpaddedMonthField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter$UnpaddedNumberField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FastDatePrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FormatCache$MultipartKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/date/FormatCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/javax/SQLiteConnectionPoolDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/javax/SQLitePooledConnection$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/javax/SQLitePooledConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3Connection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3DatabaseMetaData$ImportedKeyFinder$ForeignKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3DatabaseMetaData$ImportedKeyFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3DatabaseMetaData$PrimaryKeyFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3DatabaseMetaData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3PreparedStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3ResultSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3Savepoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3Statement$BackupObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc3/JDBC3Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc4/JDBC4Connection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc4/JDBC4DatabaseMetaData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc4/JDBC4PooledConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc4/JDBC4PreparedStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc4/JDBC4ResultSet$SqliteClob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc4/JDBC4ResultSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/jdbc4/JDBC4Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/FreeBSD/x86_64/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Linux/aarch64/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Linux/android-arm/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Linux/arm/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Linux/armv6/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Linux/armv7/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Linux/ppc64/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Linux/x86/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Linux/x86_64/libsqlitejdbc.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Mac/x86_64/libsqlitejdbc.jnilib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Windows/x86/sqlitejdbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/native/Windows/x86_64/sqlitejdbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/util/OSInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/util/ResourceFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/org/sqlite/util/StringUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Drug Store/sqlite-jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/StyleSheets/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/StyleSheets/greenStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/StyleSheets/redStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/StyleSheets/yellowStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Clinic_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Go Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Identity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Key 2_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Medicines.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Picture_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Pill_96px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Snake-Serpent-Medical-Health-Caduceus-Medical-Free-5632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/User Male_96px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Welcome 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/Welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/emblem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/group_doctors4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/medicines1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/pictures/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/StyleSheets/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/StyleSheets/greenStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/StyleSheets/redStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/StyleSheets/yellowStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Clinic_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Go Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Identity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Key 2_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Medicines.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Picture_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Pill_96px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Snake-Serpent-Medical-Health-Caduceus-Medical-Free-5632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/User Male_96px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Welcome 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/Welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/emblem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/group_doctors4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/medicines1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/resources/pictures/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/views/add.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/views/forgetPassoword.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/views/identification.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/views/shop.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Drug Store/views/update.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/Entering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/ForgetPassoword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/Identification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/AlertShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/HashPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/OpenWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/PasswordGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Drug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/DrugDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/SellerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/SellingDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/StyleSheets/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/StyleSheets/greenStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/StyleSheets/redStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/StyleSheets/yellowStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Clinic_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Go Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Identity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Key 2_48px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Medicines.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Picture_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Pill_96px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Snake-Serpent-Medical-Health-Caduceus-Medical-Free-5632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/User Male_96px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Welcome 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/Welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/emblem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/group_doctors4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/medicines1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/pictures/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/add.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/forgetPassoword.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/identification.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/shop.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/update.fxml" afterDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PasswordGenerator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/helpers/PasswordGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/helpers/OpenWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/helpers/DataGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controllers/Shop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1804">
+              <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Identification.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controllers/Identification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForgetPassoword.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controllers/ForgetPassoword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cell.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/helpers/Cell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Update.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controllers/Update.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashPassword.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/helpers/HashPassword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="54" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlertShow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/helpers/AlertShow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>opa</find>
+      <find>sear</find>
+      <find>sort</find>
+      <find>spi</find>
+      <find>spin</find>
+      <find>condi</find>
+      <find>addTo</find>
+      <find>can</find>
+      <find>spli</find>
+      <find>cle</find>
+      <find>buy</find>
+      <find>$</find>
+      <find>sel</find>
+      <find>max</find>
+      <find>back</find>
+      <find>addnew</find>
+      <find>controller</find>
+      <find>ba</find>
+      <find>copy</find>
+      <find>DrugDAO</find>
+      <find>init</find>
+      <find>number</find>
+      <find>ima</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/controllers/Controller.java" />
+        <option value="$PROJECT_DIR$/src/resources/StyleSheets/entering.css" />
+        <option value="$PROJECT_DIR$/src/views/seller.fxml" />
+        <option value="$PROJECT_DIR$/src/controllers/Seller.java" />
+        <option value="$PROJECT_DIR$/src/views/identification.fxml" />
+        <option value="$PROJECT_DIR$/src/views/entering.fxml" />
+        <option value="$PROJECT_DIR$/src/models/Seller.java" />
+        <option value="$PROJECT_DIR$/src/helpers/HashPassword.java" />
+        <option value="$PROJECT_DIR$/src/views/forgetPassoword.fxml" />
+        <option value="$PROJECT_DIR$/src/controllers/ForgetPassoword.java" />
+        <option value="$PROJECT_DIR$/src/models/SellerDAO.java" />
+        <option value="$PROJECT_DIR$/src/resources/StyleSheets/button.css" />
+        <option value="$PROJECT_DIR$/src/resources/StyleSheets/greenStyle.css" />
+        <option value="$PROJECT_DIR$/src/resources/StyleSheets/redStyle.css" />
+        <option value="$PROJECT_DIR$/src/resources/StyleSheets/yellowStyle.css" />
+        <option value="$PROJECT_DIR$/src/helpers/AlertShow.java" />
+        <option value="$PROJECT_DIR$/src/models/Drug.java" />
+        <option value="$PROJECT_DIR$/src/helpers/Cell.java" />
+        <option value="$PROJECT_DIR$/src/resources/StyleSheets/stackPane.css" />
+        <option value="$PROJECT_DIR$/src/models/SellingDAO.java" />
+        <option value="$PROJECT_DIR$/src/controllers/Entering.java" />
+        <option value="$PROJECT_DIR$/src/controllers/Identification.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/views/shop.fxml" />
+        <option value="$PROJECT_DIR$/src/views/addDrug.fxml" />
+        <option value="$PROJECT_DIR$/src/controllers/AddDrug.java" />
+        <option value="$PROJECT_DIR$/src/helpers/OpenWindow.java" />
+        <option value="$PROJECT_DIR$/src/views/update.fxml" />
+        <option value="$PROJECT_DIR$/src/helpers/Copy.java" />
+        <option value="$PROJECT_DIR$/src/controllers/Shop.java" />
+        <option value="$PROJECT_DIR$/src/models/DrugDAO.java" />
+        <option value="$PROJECT_DIR$/src/helpers/DataGenerator.java" />
+        <option value="$PROJECT_DIR$/src/controllers/Update.java" />
+        <option value="$PROJECT_DIR$/src/helpers/PasswordGenerator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MysqlParsingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Drug Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Drug Store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Drug Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Drug Store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Drug Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Drug Store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Drug Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Drug Store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Drug Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Drug Store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Drug Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Drug Store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="D:/diplom/Matritsa2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\Java\Course works\Drug Store\src\views" />
+      <recent name="D:\Coding\Java\Course works\Drug Store\src\helpers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\Java\Course works\Drug Store\src" />
+      <recent name="D:\Coding\Java\Course works\Drug Store\src\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+    </configuration>
+    <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpers.Copy" />
+      <module name="Drug Store" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpers.DataGenerator" />
+      <module name="Drug Store" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Drug Store" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="PasswordGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpers.PasswordGenerator" />
+      <module name="Drug Store" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.PasswordGenerator" />
+      <item itemvalue="Application.Copy" />
+      <item itemvalue="Application.DataGenerator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PasswordGenerator" />
+        <item itemvalue="Application.DataGenerator" />
+        <item itemvalue="Application.Copy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1527772599007" duration="1737000" />
+      <workItem from="1527834351395" duration="2306000" />
+      <workItem from="1527839329054" duration="46756000" />
+      <workItem from="1527981667160" duration="82000" />
+      <workItem from="1527981904762" duration="22200000" />
+      <workItem from="1528014083821" duration="5295000" />
+      <workItem from="1528032708727" duration="610000" />
+      <workItem from="1528039374536" duration="51000" />
+      <workItem from="1528041142288" duration="793000" />
+      <workItem from="1528107657046" duration="175000" />
+      <workItem from="1541063405203" duration="339000" />
+      <workItem from="1541391741607" duration="3581000" />
+      <workItem from="1555736501976" duration="39000" />
+      <workItem from="1555739698777" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85288000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="TODO" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.3280757" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580398" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="0" />
+      <window_info id="UI Designer" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.32750398" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" x="92" y="92" width="1182" height="544" id="Documentation" order="0" type="FLOATING" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/helpers/OpenWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/DataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Identification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/ForgetPassoword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Update.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/HashPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/AlertShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/PasswordGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/DrugDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="46" selection-start-line="135" selection-start-column="8" selection-end-line="137" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/StyleSheets/button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Update.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Entering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/AlertShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Entering.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Entering.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Entering.java" />
+    <entry file="file://$PROJECT_DIR$/src/resources/StyleSheets/entering.css" />
+    <entry file="file://$PROJECT_DIR$/src/resources/pictures/Welcome 2.png" />
+    <entry file="file://$PROJECT_DIR$/src/resources/pictures/Welcome.png" />
+    <entry file="file://$PROJECT_DIR$/src/views/entering.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/resources/StyleSheets/greenStyle.css" />
+    <entry file="file://$PROJECT_DIR$/src/resources/StyleSheets/redStyle.css" />
+    <entry file="file://$PROJECT_DIR$/src/resources/StyleSheets/yellowStyle.css" />
+    <entry file="file://$PROJECT_DIR$/src/resources/StyleSheets/stackPane.css" />
+    <entry file="file://$PROJECT_DIR$/src/resources/pictures/Identity.png" />
+    <entry file="file://$PROJECT_DIR$/src/helpers/Copy.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/sun/net/www/MimeTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/resources/StyleSheets/button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Entering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/SellingDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/SellerDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/Seller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-438">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/DrugDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-574">
+          <caret line="137" column="46" selection-start-line="135" selection-start-column="8" selection-end-line="137" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/Drug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1101">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/OpenWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/AlertShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Update.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/ForgetPassoword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/DataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/HashPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/Identification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/PasswordGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>Drug Store</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Drug Store</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jfoenix-9.0.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

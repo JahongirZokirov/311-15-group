@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Drug Store">
+    <output-path>$PROJECT_DIR$/out/artifacts/Drug Store</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="" />
+        <option name="height" value="450" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Apteka" />
+        <option name="vendor" value="" />
+        <option name="version" value="1.0" />
+        <option name="width" value="400" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Apteka.jar">
+        <element id="module-output" name="Drug Store" />
+      </element>
+      <element id="extracted-dir" path="D:/Programming/Java/Jar files/jfoenix-9.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Programming/Java/Jar files/sqlite-jdbc-3.21.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
